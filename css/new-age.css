@@ -1,13 +1,11 @@
-html,
-body {
+html, body {
   width: 100%;
   height: 100%;
 }
 
 body {
-  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
-}
-
+  font-family: 'Anton', sans-serif;
+      }
 a {
   color: #fdcc52;
   -webkit-transition: all .35s;
@@ -67,8 +65,8 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #fdcc52;
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  color: #ebefeb;
+  font-family: 'Anton', sans-serif;
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -156,7 +154,7 @@ header.masthead {
   color: white;
   background: url("../img/bg-pattern.png"), #7b4397;
   background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #24dc4c);
 }
 
 header.masthead .header-content {
@@ -398,9 +396,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary {
-  background: #fdcc52;
+  background: #396cfd;
   background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: linear-gradient(#fdcc52, #52fdcd);
 }
 
 .text-primary {
